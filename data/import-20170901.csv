@@ -1,0 +1,6 @@
+Meter ID,Organisation ID,Organisation Name,Organisation Type,Site ID,Site Name,Site Address,Site Postcode,Primary User Email,Consumer Type,Connection Type,Monthly estimated volume,Import Capacity,Tariff Type,Summer Peak / Day Rate,Summer Off Peak / Night Rate,Winter Peak / Day Rate,Winter Off Peak / Night Rate,Contract Start Date,Contract End Date
+1200034571260,O73,Zero Carbon Bikes,,BCM435,BambooBikes,"Queens Bldg, 5 The Parade, Cardiff",CF24 3YB,jin.kazama@zerocarbonbikes.com,Factory,LV,35,101,Day / Night,9.37,7.97,9.37,7.97,2017-09-01,2018-08-31
+1200034572350,O73,Zero Carbon Bikes,,BCM425,PaperBikes,"Crown Cottage, 47-49 Crown Rd, Wheatley, Oxford",OX33 1UJ,Heihachi.Mishima@zerocarbonbikes.com,Factory,LV,25,97,Day / Night,9.37,7.97,9.37,7.97,2017-09-01,2018-08-31
+1200034574561,O81,Equinox Records,,BCM455,Sunrise Shop,"91 Buckingham Gardens, Slough",SL1 1AY,mc.grindah@equinoxrecords.co.uk,Retail,LV,25,97,Day / Night,9.37,7.97,9.37,7.97,2017-09-01,2018-08-31
+1200078574163,O83,Parable Foods,,BCM532,The Prodigal Shop,"2 Halketburn Rd, Skelmorlie",PA17 5BP,malcolm.tucker@parablefoods.com,Retail,LV,20,55,Day / Night,9.37,7.97,9.37,7.97,2017-01-01,2018-01-31
+1200045744621,O81,Equinox Records,,BCM457,Sunset Shop,"3 Chiltern Ln, Eccleshall, Stafford",ST21 6JJ,dj.steves@equinoxrecords.co.uk,Retail,LV,19,67,Day / Night,9.37,7.97,9.37,7.97,2017-01-01,2018-01-31

@@ -1,0 +1,10 @@
+Meter ID,Organisation Name,Organisation Type,Organisation ID,Site ID,Site Name,Site Address,Site Postcode,Primary User Email,Generation Type,Connection Type,Installed Capacity,Tariff Type,Summer Peak / Day Rate,Summer Off Peak / Night Rate,Winter Peak / Day Rate,Winter Off Peak / Night Rate,Contract End Date,Contract Start Date
+1320000245986,A B C Acme Ltd,,O49,S844,ACME Wind,"Wighill Ln, Tadcaster ",LS24 8BU,jon.snow@abc.acmeltd.org,Wind,LV-N,200,Peak / Off Peak,5.64,5.64,5.64,5.64,2018-03-31,2017-04-01
+1320000255936,A B C Acme Ltd,,O49,S830,ACME Gen,"10 Highfield Gardens, Aldershot",GU11 3DE,dany.targarean@abc.acmeltd.org,Biogen,LV-N,30,Peak / Off Peak,5.64,5.64,5.64,5.64,2018-03-31,2017-04-01
+1320000255937,A B C Acme Ltd,,O49,S830,ACME Gen,"10 Highfield Gardens, Aldershot",GU11 3DE,dany.targarean@abc.acmeltd.org,Biogen,LV-N,27,Peak / Off Peak,5.64,5.64,5.64,5.64,2018-03-31,2017-04-01
+1320000954512,Maxinoodle,,O32,S819,MaxiWindy,"Widhill Ln, Blunsdon St Andrew, Swindon ",SN26 8BX,jessie.pinkman@maxinoodle.com,Wind,LV-N,52,Peak / Off Peak,5.64,5.64,5.64,5.64,2018-01-31,2017-06-01
+1320000254523,Oceanshack,,O75,S801,MaxiWindy,"85 Finistere Ave, Falkirk FK1 1UB",FK1 1UB,milhouse.van.Houten@oceanshack.net,Hydro,LV-N,45,Peak / Off Peak,5.64,5.64,5.64,5.64,2018-01-31,2017-06-01
+1320000354534,High Tidustries,,O54,S803,WhitbyWideTides,"New Quay Road, WHITBY, North Yorkshire",YO21 1DN,Tim.Bisley@HighTidustries.org,Hydro,LV-N,60,Peak / Off Peak,5.64,5.64,5.64,5.64,2017-12-31,2017-06-01
+1320000354535,High Tidustries,,O54,S804,WhitbyNarrowTides,"New Quay Road, WHITBY, North Yorkshire",YO21 1DN,Mike.Watt@HighTidustries.org,Hydro,LV-N,30,Peak / Off Peak,5.64,5.64,5.64,5.64,2017-12-31,2017-06-01
+1320000354536,High Tidustries,,O54,S803,WhitbyWideTides,"New Quay Road, WHITBY, North Yorkshire",YO21 1DN,Tim.Bisley@HighTidustries.org,Hydro,LV-N,60,Peak / Off Peak,5.64,5.64,5.64,5.64,2017-12-31,2017-06-01
+1320000362526,Goldsun Corp,,O56,S894,ShinyGen,"3 Pipistrelle Walk, Knowle, Fareham",PO17 5BF,mark.corrigan@goldsun.co.uk,Solar,LV-N,23,Peak / Off Peak,5.64,5.64,5.64,5.64,2018-12-31,2017-06-01

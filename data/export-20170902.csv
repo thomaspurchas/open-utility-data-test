@@ -1,0 +1,6 @@
+Meter ID,Organisation Name,Organisation Type,Organisation ID,Site ID,Site Name,Site Address,Site Postcode,Primary User Email,Generation Type,Connection Type,Installed Capacity,Tariff Type,Summer Peak / Day Rate,Summer Off Peak / Night Rate,Winter Peak / Day Rate,Winter Off Peak / Night Rate,Contract End Date,Contract Start Date
+1320000333545,Goldsun Corp,,O56,S895,DullGen,"1 Bowling Green Pl, Crail, Anstruther",KY10 3TG,jeremy.usborne@goldsun.co.uk,Biogen,LV-N,12,Peak / Off Peak,5.64,5.64,5.64,5.64,2018-12-31,2017-08-01
+1320000143753,Fjordustries,,O21,S865,Site42,"Crantock, Newquay",TR8 5EW,arthur.dent@fjordustries.nl,Hydro,LV-N,65,Peak / Off Peak,5.64,5.64,5.64,5.64,2018-06-31,2017-01-01
+1320000127754,Whirlwindustries,,O63,S821,Whirly,"24 High Lea, Egremont",CA22 2BU,ron.weasley@whilrwindustries.io,Wind,LV-N,13,Peak / Off Peak,5.64,5.64,5.64,5.64,2018-10-31,2017-03-01
+1320000228139,Stormhead Limited,,O89,S837,Whirly,"Shutteroaks House, Crewkerne",TA18 7TR,beth.smith@stormhead.com,Hydro,LV-N,41,Peak / Off Peak,5.64,5.64,5.64,5.64,2018-10-31,2017-03-01
+1320000127455,Whirlwindustries,,O63,S822,Twirly,"High St, Fordingbridge",SP6 2AU,hermione.granger@whilrwindustries.io,Wind,LV-N,12,Peak / Off Peak,5.64,5.64,5.64,5.64,2018-10-31,2017-03-01
