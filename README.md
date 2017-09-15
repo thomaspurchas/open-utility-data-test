@@ -1,5 +1,10 @@
 # Data Engineer Code Challenge
 
+Thanks for your interest in joining the OU team. Below are a number of tasks
+and each task should take about an hour. Please don't spend much more time 
+than this.
+
+
 ## The Tasks
 
 Please read all parts before starting on the tasks.
@@ -51,3 +56,13 @@ should do this.
 
 The easiest method for this would be a vagrantfile to provision your
 environment (at least a pip requirements file would be good).
+
+
+# Submitting your solutions
+
+For each task do the following:
+
+1. create a new branch
+2. work on the new branch commiting early and often
+3. create a pull request and merge your branch back into master
+4. repeat for the next task
