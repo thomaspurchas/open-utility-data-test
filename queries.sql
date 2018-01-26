@@ -50,4 +50,7 @@ SELECT
   ,c.site_name as con_site_name
   ,c.site_postcode as con_site_postcode
   ,(((g.easting - c.easting) * (g.easting - c.easting)) + ((g.northing - c.northing) * (g.northing - c.northing))) as dist
-FROM generator_locations g CROSS JOIN consumer_locations c ORDER BY dist DESC;
+FROM generator_locations g CROSS JOIN consumer_locations c 
+ORDER BY dist DESC
+LIMIT 1;
+
