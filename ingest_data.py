@@ -11,7 +11,7 @@ DATA_DATE_FORMAT = '%Y%m%d'
 
 File = namedtuple('File', ['path', 'prefix', 'date'])
 
-conn = sqlite3.connect('example.db')
+conn = sqlite3.connect('data.db')
 
 def retrieve_file_paths():
     file_names = os.listdir(DATA_DIR)

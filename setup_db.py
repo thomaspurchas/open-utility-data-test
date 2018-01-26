@@ -4,7 +4,7 @@ import zipfile
 import io
 import sqlite3
 
-conn = sqlite3.connect('example.db')
+conn = sqlite3.connect('data.db')
 
 def build_schema():
     POSTCODE_TABLE = """
