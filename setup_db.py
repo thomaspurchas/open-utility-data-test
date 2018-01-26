@@ -15,9 +15,10 @@ def build_schema():
     ) WITHOUT ROWID;
     """
 
-    METER_TABLE = """
-    CREATE TABLE meter (
-        meter_id TEXT PRIMARY KEY
+    EXPORT_METER_TABLE = """
+    CREATE TABLE export_meter (
+        meter_id TEXT PRIMARY KEY ON CONFLICT REPLACE
+        ,org_id TEXT
         ,org_name TEXT
         ,org_type TEXT
         ,site_id TEXT
@@ -33,15 +34,41 @@ def build_schema():
         ,summer_night_rate REAL
         ,winter_day_rate REAL
         ,winter_night_rate REAL
-        ,contract_end_date DATE
         ,contract_start_date DATE
+        ,contract_end_date DATE
+    )
+    """
+    
+    IMPORT_METER_TABLE = """
+    CREATE TABLE import_meter (
+        meter_id TEXT PRIMARY KEY ON CONFLICT REPLACE
+        ,org_id TEXT
+        ,org_name TEXT
+        ,org_type TEXT
+        ,site_id TEXT
+        ,site_name TEXT
+        ,site_address TEXT
+        ,site_postcode TEXT
+        ,primary_user_email TEXT
+        ,consumer_type TEXT
+        ,connection_type TEXT
+        ,monthy_estimate_volume INTEGER
+        ,import_capacity INTEGER
+        ,tariff_type TEXT
+        ,summer_day_rate REAL
+        ,summer_night_rate REAL
+        ,winter_day_rate REAL
+        ,winter_night_rate REAL
+        ,contract_start_date DATE
+        ,contract_end_date DATE
     )
     """
 
     print('Building Schema')
 
     conn.execute(POSTCODE_TABLE)
-    conn.execute(METER_TABLE)
+    conn.execute(IMPORT_METER_TABLE)
+    conn.execute(EXPORT_METER_TABLE)
     conn.commit()
 
 def add_postcodes():
